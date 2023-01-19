@@ -1,8 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <ItemGroup>
-        <Compile Update="Form1.cs">
-            <SubType>Form</SubType>
-        </Compile>
-    </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Form01SumarNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form02ColoresPosicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form03CaclularDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form04Fecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form05Char.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form06Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form07SumarNumeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form08ColeccionGrafica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form09ColeccionMultiple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form10Random.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11TiendaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form12Metodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form13ArrayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form14ListEventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form15SumarBotones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form16TablaMultipicar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form17Meses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form18PruebaClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form19TemperaturaClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>
