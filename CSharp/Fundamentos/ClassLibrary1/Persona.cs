@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,15 @@ namespace ClassLibrary1
     {
         public Persona()
         {
+            Debug.WriteLine("Constructor PERSONA vacio");
             this.DomicilioVacaciones = new Direccion("AA", "AAA", 7777);
+        }
+
+        public Persona(string nombre, string apellidos)
+        {
+            Debug.WriteLine("Constructor PERSONA dos parametros");
+            this.Nombre = nombre;
+            this.Apellidos = apellidos;
         }
 
         #region CAMPOS DE PROPIEDAD

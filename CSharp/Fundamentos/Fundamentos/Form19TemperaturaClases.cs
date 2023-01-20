@@ -32,7 +32,7 @@ namespace Fundamentos
             {
                 Random random = new Random();
                 int num = random.Next(-50, 50);
-                temperaturas.Add(num);
+                //temperaturas.Add();
                 this.listBox1.Items.Add(meses[i] + num);
             }
         }
