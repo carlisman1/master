@@ -33,8 +33,12 @@ C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundame
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form15SumarBotones.resources
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form16TablaMultipicar.resources
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form17Meses.resources
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\bin\Debug\net6.0-windows\ClassLibrary1.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\bin\Debug\net6.0-windows\ClassLibrary1.pdb
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form18PruebaClases.resources
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.csproj.CopyComplete
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form19TemperaturaClases.resources
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form21Files.resources
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\bin\Debug\net6.0-windows\ProyectoClases.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\bin\Debug\net6.0-windows\ProyectoClases.pdb
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form22Mascotas.resources
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form23ObjetoXMLMascota.resources
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\Fundamentos\obj\Debug\net6.0-windows\Fundamentos.Form24ColeccionXml.resources

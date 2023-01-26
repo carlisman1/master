@@ -1,0 +1,12 @@
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\bin\Debug\net6.0\ProyectoClases.deps.json
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\bin\Debug\net6.0\ProyectoClases.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\bin\Debug\net6.0\ProyectoClases.pdb
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.AssemblyInfoInputs.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.AssemblyInfo.cs
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\refint\ProyectoClases.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ProyectoClases.pdb
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\Fundamentos\ClassLibrary1\obj\Debug\net6.0\ref\ProyectoClases.dll

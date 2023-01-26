@@ -164,5 +164,29 @@ namespace Fundamentos
             Form19TemperaturaClases formTemperatura = new Form19TemperaturaClases();
             formTemperatura.ShowDialog();
         }
+
+        private void readWriteFilesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form21Files formFiles = new Form21Files();  
+            formFiles.ShowDialog();
+        }
+
+        private void mascotasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form22Mascotas formMascotas = new Form22Mascotas();
+            formMascotas.ShowDialog();
+        }
+
+        private void objetosXMLMascotasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form23ObjetoXMLMascota formXml = new Form23ObjetoXMLMascota();
+            formXml.ShowDialog();
+        }
+
+        private void coleccionesXMLToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form24ColeccionXml formColeccionesXml = new Form24ColeccionXml();
+            formColeccionesXml.ShowDialog();
+        }
     }
 }

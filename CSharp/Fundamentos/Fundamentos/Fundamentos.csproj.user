@@ -61,5 +61,17 @@
     <Compile Update="Form19TemperaturaClases.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Form21Files.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form22Mascotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form23ObjetoXMLMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form24ColeccionXml.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
