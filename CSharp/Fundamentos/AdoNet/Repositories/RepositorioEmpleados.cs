@@ -55,12 +55,34 @@ namespace AdoNet.Repositories
                 string apellido = this.reader["APELLIDO"].ToString();
                 string nombreOficio = this.reader["OFICIO"].ToString();
                 int salario = int.Parse(this.reader["SALARIO"].ToString());
-                DatosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = oficio, Salario = salario });
+                int idEmpleado = int.Parse(this.reader["EMP_NO"].ToString());
+                DatosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = oficio, Salario = salario, IdEmpleado = idEmpleado });
             }
             this.cmd.Parameters.Clear();
             this.reader.Close();
             this.cn.Close();
             return DatosOficio;
+        }
+
+        public DatosOficio GetAllEmpleados()
+        {
+            this.cmd.CommandType = CommandType.StoredProcedure;
+            this.cmd.CommandText = "SP_ALLEMPLEADOS";
+            this.cn.Open();
+            DatosOficio datosOficio = new DatosOficio();
+            this.reader = this.cmd.ExecuteReader();
+            while (this.reader.Read())
+            {
+                
+                string apellido = this.reader["APELLIDO"].ToString();
+                string oficio = this.reader["OFICIO"].ToString();
+                int salario = int.Parse(this.reader["SALARIO"].ToString());
+                int idEmpleado = int.Parse(this.reader["EMP_NO"].ToString());
+                datosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = oficio, Salario = salario, IdEmpleado = idEmpleado });
+            }
+            this.reader.Close();
+            this.cn.Close();
+            return datosOficio;
         }
 
         public int DeleteEmpleado(int id)

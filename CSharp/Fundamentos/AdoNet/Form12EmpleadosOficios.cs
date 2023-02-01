@@ -22,6 +22,8 @@ namespace AdoNet
             RepositorioEmpleados = new RepositorioEmpleados();
             var oficios = this.RepositorioEmpleados.GetOficios();
             this.LoadOficios();
+            this.LoadEmpleados();
+            this.Get
         }
 
         private void LoadOficios()
@@ -33,7 +35,12 @@ namespace AdoNet
             }
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void LoadAllEmpleados()
+        {
+            
+        }
+
+        private void LoadEmpleados()
         {
             if (this.comboBox1.SelectedIndex != -1)
             {
@@ -45,14 +52,20 @@ namespace AdoNet
                     string apellido = empleado.Apellido;
                     string oficio = empleado.Oficio;
                     string salario = empleado.Salario.ToString();
+                    int idempleado = empleado.IdEmpleado;
                     ListViewItem vi = new ListViewItem();
                     vi.Text = apellido; //PRIMERA COLUMNA
                     vi.SubItems.Add(oficio); //SEGUNDA
                     vi.SubItems.Add(salario); //TERCERA
-                    vi.SubItems.Add("juancar"); //CUARTA
+                    vi.SubItems.Add(idempleado.ToString()); //CUARTA
                     this.listView1.Items.Add(vi);
                 }
             }
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            this.LoadEmpleados();
         }
 
         private void btnMostrar_Click(object sender, EventArgs e)
@@ -63,8 +76,10 @@ namespace AdoNet
         {
             ListViewItem viSeleccionado = this.listView1.SelectedItems[0];
             //CUARTA COLUMNA, POSICION 3 DE SUBITEMS
-            int item = int.Parse(viSeleccionado.SubItems[3].Text);
-            this.RepositorioEmpleados.DeleteEmpleado(item);
+
+            int idEmpleado = int.Parse(viSeleccionado.SubItems[3].Text); //CUARTA COLUMNA
+            this.RepositorioEmpleados.DeleteEmpleado(idEmpleado);
+            this.LoadEmpleados();
         }
     }
 }
