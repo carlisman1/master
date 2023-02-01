@@ -19,5 +19,23 @@
     <Compile Update="Form06AccionDepartamento.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Form07ProcedimientoUpdatePlantilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form08MensajesServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form09ParametrosSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form10HospitalEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11HospitalesEmpledosClases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form12EmpleadosOficios.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

@@ -16,7 +16,13 @@ namespace AdoNet
             //Application.Run(new Form03EliminarEnfermo());
             //Application.Run(new Form04ModificarSala());
             //Application.Run(new Form05DepartamentosEmpleados());
-            Application.Run(new Form06AccionDepartamento());
+            //Application.Run(new Form06AccionDepartamento());
+            //Application.Run(new Form07ProcedimientoUpdatePlantilla());
+            //Application.Run(new Form08MensajesServidor());
+            //Application.Run(new Form09ParametrosSalas());
+            //Application.Run(new Form10HospitalEmpleados());
+            //Application.Run(new Form11HospitalesEmpledosClases());
+            Application.Run(new Form12EmpleadosOficios());
 
         }
     }
