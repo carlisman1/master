@@ -56,7 +56,7 @@ namespace AdoNet.Repositories
                 string nombreOficio = this.reader["OFICIO"].ToString();
                 int salario = int.Parse(this.reader["SALARIO"].ToString());
                 int idEmpleado = int.Parse(this.reader["EMP_NO"].ToString());
-                DatosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = oficio, Salario = salario, IdEmpleado = idEmpleado });
+                DatosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = nombreOficio, Salario = salario, IdEmpleado = idEmpleado });
             }
             this.cmd.Parameters.Clear();
             this.reader.Close();
@@ -69,16 +69,16 @@ namespace AdoNet.Repositories
             this.cmd.CommandType = CommandType.StoredProcedure;
             this.cmd.CommandText = "SP_ALLEMPLEADOS";
             this.cn.Open();
-            DatosOficio datosOficio = new DatosOficio();
+            DatosOficio datosOficio = new();
+            datosOficio.Empleados = new();
             this.reader = this.cmd.ExecuteReader();
             while (this.reader.Read())
             {
-                
                 string apellido = this.reader["APELLIDO"].ToString();
-                string oficio = this.reader["OFICIO"].ToString();
+                string nombreOficio = this.reader["OFICIO"].ToString();
                 int salario = int.Parse(this.reader["SALARIO"].ToString());
                 int idEmpleado = int.Parse(this.reader["EMP_NO"].ToString());
-                datosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = oficio, Salario = salario, IdEmpleado = idEmpleado });
+                datosOficio.Empleados.Add(new Empleado() { Apellido = apellido, Oficio = nombreOficio, Salario = salario, IdEmpleado = idEmpleado });
             }
             this.reader.Close();
             this.cn.Close();
@@ -96,6 +96,23 @@ namespace AdoNet.Repositories
             this.cn.Close();
             this.cmd.Parameters.Clear();
             return eliminados;
+        }
+
+        public int IncrementarSalario(string oficio, int incremento)
+        {
+            SqlParameter pamoficio = new SqlParameter("@OFICIO", oficio);
+            this.cmd.Parameters.Add(pamoficio);
+
+            SqlParameter pamIncremento = new SqlParameter("@INCREMENTO", incremento);
+            this.cmd.Parameters.Add(pamIncremento);
+
+            this.cmd.CommandType = CommandType.StoredProcedure;
+            this.cmd.CommandText = "SP_INCREMENTAR";
+            this.cn.Open();
+            int incrementado = this.cmd.ExecuteNonQuery();
+            this.cn.Close();
+            this.cmd.Parameters.Clear();
+            return incrementado;
         }
     }
 }

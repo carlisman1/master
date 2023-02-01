@@ -23,7 +23,7 @@ namespace AdoNet
             var oficios = this.RepositorioEmpleados.GetOficios();
             this.LoadOficios();
             this.LoadEmpleados();
-            this.Get
+            this.LoadAllEmpleados();
         }
 
         private void LoadOficios()
@@ -37,7 +37,21 @@ namespace AdoNet
 
         private void LoadAllEmpleados()
         {
-            
+            var DatosOficio = RepositorioEmpleados.GetAllEmpleados();
+            this.listView1.Items.Clear();
+            foreach (var empleado in DatosOficio.Empleados)
+            {
+                string apellido = empleado.Apellido;
+                string oficio = empleado.Oficio;
+                string salario = empleado.Salario.ToString();
+                int idempleado = empleado.IdEmpleado;
+                ListViewItem vi = new ListViewItem();
+                vi.Text = apellido; //PRIMERA COLUMNA
+                vi.SubItems.Add(oficio); //SEGUNDA
+                vi.SubItems.Add(salario); //TERCERA
+                vi.SubItems.Add(idempleado.ToString()); //CUARTA
+                this.listView1.Items.Add(vi);
+            }
         }
 
         private void LoadEmpleados()
@@ -79,6 +93,14 @@ namespace AdoNet
 
             int idEmpleado = int.Parse(viSeleccionado.SubItems[3].Text); //CUARTA COLUMNA
             this.RepositorioEmpleados.DeleteEmpleado(idEmpleado);
+            this.LoadEmpleados();
+        }
+
+        private void btnIncrementar_Click(object sender, EventArgs e)
+        {
+            string nombreOficio = this.comboBox1.SelectedItem.ToString();
+            int incremento = int.Parse(this.textBox1.Text);
+            this.RepositorioEmpleados.IncrementarSalario(nombreOficio,incremento);
             this.LoadEmpleados();
         }
     }

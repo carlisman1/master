@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj": {}
+    "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj": {
+    "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj",
+        "projectUniqueName": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj",
         "projectName": "AdoNet",
-        "projectPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj",
-        "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\AdoNet\\obj\\",
+        "projectPath": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\AdoNet\\AdoNet.csproj",
+        "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\AdoNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -59,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +72,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
