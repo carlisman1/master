@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "PJNpRdmVieKxSce+a1T35exnqPngIbzsPB4ij9kBR1KetUwDYFGEXHQq0A24Nfxt0zoCZUcehs/nHMT3KmKrug==",
+  "dgSpecHash": "FJAKdt2tg51gsso6Z0CkV/j4ykiCQukgXEe3a5MkKA+jFCn/Xpw7Bj5+PcT8ZAuoQk+z7owCfyxfcfpw+HYLdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\ClassLibrary1\\ProyectoClases.csproj",
+  "projectFilePath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\ClassLibrary1\\ProyectoClases.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\JC\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\JC\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\JC\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\JC\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
