@@ -23,7 +23,6 @@ namespace AdoNet
             var oficios = this.RepositorioEmpleados.GetOficios();
             this.LoadOficios();
             this.LoadEmpleados();
-            this.Get
         }
 
         private void LoadOficios()
@@ -35,10 +34,6 @@ namespace AdoNet
             }
         }
 
-        private void LoadAllEmpleados()
-        {
-            
-        }
 
         private void LoadEmpleados()
         {
