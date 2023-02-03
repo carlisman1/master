@@ -92,7 +92,7 @@ namespace JUANCARLOSMARAÑON.Repositorios
             return client;
         }
 
-        public List<Pedido> GetPedido(string codcliente)
+        public List<string> GetPedido(string codcliente)
         {
             SqlParameter pamcodcliente = new SqlParameter("@CODCLIENTE", codcliente);
             this.cmd.Parameters.Add(pamcodcliente);
