@@ -91,7 +91,7 @@ namespace JUANCARLOSMARAÑON.Repositorios
             this.cn.Close();
             return client;
         }
-
+        //he cambiado el string despues del examen porque fallaba el commit
         public List<string> GetPedido(string codcliente)
         {
             SqlParameter pamcodcliente = new SqlParameter("@CODCLIENTE", codcliente);
