@@ -40,7 +40,9 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.dll": {}
+          "ref/netstandard1.5/System.Runtime.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Extensions/4.3.0": {
@@ -51,7 +53,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/_._": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -296,19 +300,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\": {}
+    "C:\\Users\\JC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\ClassLibrary1\\ProyectoClases.csproj",
+      "projectUniqueName": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\ClassLibrary1\\ProyectoClases.csproj",
       "projectName": "ProyectoClases",
-      "projectPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\ClassLibrary1\\ProyectoClases.csproj",
-      "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\Fundamentos\\ClassLibrary1\\obj\\",
+      "projectPath": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\ClassLibrary1\\ProyectoClases.csproj",
+      "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JC\\source\\repos\\juancarlosmaranon\\master\\CSharp\\Fundamentos\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -345,7 +349,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -354,7 +359,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

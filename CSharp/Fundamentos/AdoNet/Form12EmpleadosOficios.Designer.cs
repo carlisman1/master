@@ -87,6 +87,7 @@
             this.btnIncrementar.TabIndex = 5;
             this.btnIncrementar.Text = "Incrementar";
             this.btnIncrementar.UseVisualStyleBackColor = true;
+            this.btnIncrementar.Click += new System.EventHandler(this.btnIncrementar_Click);
             // 
             // textBox1
             // 
