@@ -1,0 +1,37 @@
+﻿<h1>
+    klk
+</h1>
+
+<ul>
+    <li>
+        @Html.ActionLink("Vista --> Controller GET ",
+        "SumarNumeroGet", "Matematica"
+        , new {valor1 = 4, valor2 = 2}) 
+
+    </li>
+    <li>
+         @Html.ActionLink("Vista --> CONTROLLER POST"
+        , "SumarNumeroPost", "Matematica")
+    </li>
+
+    <li>
+        <a asp-controller="Matematica"
+        asp-action="ConjeturaCollatz">
+            Conjetura Collatz
+        </a>
+    </li>
+
+    <li>
+        <a asp-controller="Matematica"
+        asp-action="TablaMultiplicar">
+            Tabla Multiplicar
+        </a>
+    </li>
+
+    <li>
+        <a asp-controller="Matematica"
+        asp-action="TablaMultiplicarCompuesta">
+            Tabla Multiplicar Compuesta
+        </a>
+    </li>
+</ul>

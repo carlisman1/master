@@ -1,0 +1,22 @@
+﻿<h1 id="mensaje" style="color:rebeccapurple">
+    Estoy en casita
+</h1>
+
+<button class="btn btn-outline-danger" id="botonview">
+    Mensaje de View Index
+</button>
+
+
+    <script src="~/js/jquery-3.6.3.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+
+@section scripts{
+    <script>
+    $(document).ready(function() {
+        $("#botonview").click(function() {
+            alert("accion!");
+            $("#mensaje").text("He cambiado en la vista INDEX!!!");
+        })
+    })
+    </script>
+}
