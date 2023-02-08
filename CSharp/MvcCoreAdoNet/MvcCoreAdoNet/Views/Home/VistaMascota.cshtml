@@ -1,0 +1,30 @@
+﻿@model Mascota
+
+<h1>
+    Vista Mascota
+</h1>
+
+<h4>
+    Cuanto de mono es el perrete?
+</h4>
+
+<button id="buttonperrete" style="width:150px">
+    Cambiar Imagen
+</button>
+
+@section imagenhome{
+    <img id="imgperrete" src="~/images/perrete.jpg"
+        style="width:150px"/>
+}
+
+@section scripts{
+    <script>
+        $(document).ready(function() {
+            $("#buttonperrete").click(function() {
+                //PARA CAMBIAR IMAGENES
+                $("#imgperrete").attr("src","/images/bad.jpg")
+            })
+        })
+    </script>
+}
+

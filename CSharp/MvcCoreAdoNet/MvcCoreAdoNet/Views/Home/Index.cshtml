@@ -1,0 +1,18 @@
+﻿@*<h1 id="mensaje" style="color:rebeccapurple">
+    Estoy en casita
+</h1>*@
+
+<button class="btn btn-info" id="botonalert">
+    Alerta
+</button>
+
+@section scripts{
+    <script>
+        $(document).ready(function() {
+            $("#botonalert").click(function() {
+                //PARA CREAR ALERTA
+                alert("ALERTA!!!")
+            })
+        })
+    </script>
+}
