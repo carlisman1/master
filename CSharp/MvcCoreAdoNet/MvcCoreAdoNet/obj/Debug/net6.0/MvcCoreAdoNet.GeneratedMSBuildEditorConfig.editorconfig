@@ -23,6 +23,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaXN0YU1hc2NvdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreAdoNet/MvcCoreAdoNet/Views/Hospitales/CreateHospital.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxlc1xDcmVhdGVIb3NwaXRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreAdoNet/MvcCoreAdoNet/Views/Hospitales/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxlc1xEZXRhbGxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreAdoNet/MvcCoreAdoNet/Views/Hospitales/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9zcGl0YWxlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

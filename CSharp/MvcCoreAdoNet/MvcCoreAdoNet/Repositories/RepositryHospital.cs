@@ -44,7 +44,7 @@ namespace MvcCoreAdoNet.Repositories
 
         public Hospital FindHospital(int idhospital)
         {
-            string sql = "SELECT * FROM HOSPITAL WHERE HOSPITAL_COD=@HOSPITAL";
+            string sql = "SELECT * FROM HOSPITAL WHERE HOSPITAL_COD = @IDHOSPITAL";
             SqlParameter pamid = new SqlParameter("@IDHOSPITAL", idhospital);
             this.cmd.Parameters.Add(pamid);
             this.cmd.CommandType = CommandType.Text;
@@ -62,6 +62,23 @@ namespace MvcCoreAdoNet.Repositories
             this.cn.Close();
             this.cmd.Parameters.Clear();
             return hospital;
+        }
+
+        public void CreateHospital(int idhospital, string nombre, string direccion
+            , string telefono, int camas)
+        {
+            string sql = "INSERT INTO HOSPITAL VALUES(@ID, @NOMBRE, @DIRECCION, @TELEFONO, @CAMAS)";
+            this.cmd.Parameters.AddWithValue("@ID", idhospital);
+            this.cmd.Parameters.AddWithValue("@NOMBRE", nombre);
+            this.cmd.Parameters.AddWithValue("@DIRECCION", direccion);
+            this.cmd.Parameters.AddWithValue("@TELEFONO", telefono);
+            this.cmd.Parameters.AddWithValue("@CAMAS", camas);
+            this.cmd.CommandType = CommandType.Text;
+            this.cmd.CommandText = sql;
+            this.cn.Open();
+            this.cmd.ExecuteNonQuery();
+            this.cn.Close();
+            this.cmd.Parameters.Clear();
         }
     }
 }

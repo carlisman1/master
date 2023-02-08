@@ -8,6 +8,7 @@
         <th>Direccion</th>
         <th>Telefono</th>
         <th>Camas</th>
+        <th>Id Hospital</th>
     </thead>
     <tbody>
         @foreach(Hospital hospital in Model)
@@ -17,6 +18,10 @@
                 <td>@hospital.Direccion</td>
                 <td>@hospital.Telefono</td>
                 <td>@hospital.Camas</td>
+                <td>
+                    @Html.ActionLink("Details", "Detalles", "Hospitales"
+                    , new {idhospital = hospital.IdHospital})
+                </td>
             </tr> 
         }
         
