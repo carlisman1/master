@@ -1,0 +1,86 @@
+﻿@*@model DatosDoctores*@
+@model List<Doctor>
+
+@{
+    //AQUI SIEMPRE DEBEMOS CONVERTIR VIEWDATA A SUS TIPOS
+    List<string> especialidades = (List<string>)ViewData["ESPECIALIDADES"];
+
+}
+
+@section scripts{
+    $(document).ready(function(){
+        $('select').formSelect();
+    })
+}   
+
+<h1>Doctores especialidad</h1>
+
+<form method="post">
+    <select name="especialidad">
+            @foreach (string espe in especialidades)
+        {
+            <option value="@espe">@espe</option>
+        }
+    </select>
+    <button>
+        Buscar
+    </button>
+</form>
+
+@*<form method="post">
+    <select name="especialidad">
+            @foreach (string espe in Model.Especialidades)
+        {
+            <option value="@espe">@espe</option>
+        }
+    </select>
+    <button>
+        Buscar
+    </button>
+</form>*@
+
+<hr/>
+
+<table>
+    <thead>
+        <tr>
+            <th>Apellido</th>
+            <th>Especialidad</th>
+            <th>Salario</th>
+            <th>Hospital</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Doctor doc in Model)
+        {
+            <tr>
+                <td>@doc.Apellido</td>
+                <td>@doc.Especialidad</td>
+                <td>@doc.Salario</td>
+                <td>@doc.IdHospital</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*<table>
+    <thead>
+        <tr>
+            <th>Apellido</th>
+            <th>Especialidad</th>
+            <th>Salario</th>
+            <th>Hospital</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Doctor doc in Model.Doctores)
+        {
+            <tr>
+                <td>@doc.Apellido</td>
+                <td>@doc.Especialidad</td>
+                <td>@doc.Salario</td>
+                <td>@doc.IdHospital</td>
+            </tr>
+        }
+    </tbody>
+</table>*@

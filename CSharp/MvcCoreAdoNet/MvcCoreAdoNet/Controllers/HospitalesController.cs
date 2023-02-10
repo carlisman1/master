@@ -7,11 +7,11 @@ namespace MvcCoreAdoNet.Controllers
 {
     public class HospitalesController : Controller
     {
-        private RepositryHospital repo;
+        private RepositoryHospital repo;
 
         public HospitalesController()
         {
-            this.repo = new RepositryHospital();
+            this.repo = new RepositoryHospital();
         }
 
         public IActionResult Index()
@@ -24,6 +24,22 @@ namespace MvcCoreAdoNet.Controllers
         {
             Hospital hospital = this.repo.FindHospital(idhospital);
             return View(hospital);
+        }
+
+        public IActionResult CreateHospital()
+        {
+            return View();
+        }
+
+        //CUANDO PULSEMOS EL BOTON, QUE DEBEMOS RECIBIR???
+        //MEJOR RECIBIR UN MODEL BINDING
+        [HttpPost]
+        public IActionResult CreateHospital(Hospital hospital)
+        {
+                this.repo.CreateHospital(hospital.IdHospital, hospital.Nombre, hospital.Direccion
+                ,hospital.Telefono, hospital.Camas);
+            ViewData["MENSAJE"] = "Hospital creado!";
+            return View();
         }
     }
 }

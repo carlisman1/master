@@ -2,25 +2,35 @@
 
 <h1 style="color:blue">Lista hospitales</h1>
 
-<table class="table table-responsive">
+<a asp-controller="Hospitales"
+    asp-action="CreateHospital"
+    class="btn btn-info">
+    Crear Hospital
+</a>
+
+<table class="table table-responsive text-center">
     <thead>
+        <th>Id Hospital</th>
         <th>Nombre</th>
         <th>Direccion</th>
         <th>Telefono</th>
         <th>Camas</th>
-        <th>Id Hospital</th>
+        <th>Detalles</th>
     </thead>
     <tbody>
         @foreach(Hospital hospital in Model)
         {
             <tr>
+                <td>@hospital.IdHospital</td>
                 <td>@hospital.Nombre</td>
                 <td>@hospital.Direccion</td>
                 <td>@hospital.Telefono</td>
                 <td>@hospital.Camas</td>
                 <td>
-                    @Html.ActionLink("Details", "Detalles", "Hospitales"
-                    , new {idhospital = hospital.IdHospital})
+                    <button class="btn btn-warning">
+                        @Html.ActionLink("Details", "Detalles", "Hospitales"
+                        , new {idhospital = hospital.IdHospital})
+                    </button>
                 </td>
             </tr> 
         }

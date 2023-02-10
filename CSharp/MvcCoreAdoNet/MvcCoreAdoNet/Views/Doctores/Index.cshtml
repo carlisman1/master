@@ -1,0 +1,42 @@
+﻿@model List<Doctor>
+
+<h1 style="color:blue">Lista doctores</h1>
+
+<form method="post">
+    <label>Buscar doctor por especialidad:</label>
+    <input type="text" name="Especialidad" required/>
+    <button class="btn btn-success">
+        Buscar
+    </button>
+</form>
+
+
+<table class="table table-responsive text-center">
+    <thead>
+        <th>Id Hospital</th>
+        <th>Id Doctor</th>
+        <th>Apellido</th>
+        <th>Especialidad</th>
+        <th>Salario</th>
+        @*<th>Detalles</th>*@
+    </thead>
+    <tbody>
+        @foreach(Doctor doctor in Model)
+        {
+            <tr>
+                <td>@doctor.IdHospital</td>
+                <td>@doctor.IdDoctor</td>
+                <td>@doctor.Apellido</td>
+                <td>@doctor.Especialidad</td>
+                <td>@doctor.Salario</td>
+                @*<td>
+                    <button class="btn btn-warning">
+                        @Html.ActionLink("Details", "Detalles", "Hospitales"
+                        , new {idhospital = hospital.IdHospital})
+                    </button>
+                </td>*@
+            </tr> 
+        }
+        
+    </tbody>
+</table>

@@ -1,0 +1,33 @@
+﻿@model Doctor
+
+<h1>Crear Doctor</h1>
+
+<form method="post">
+    <select>
+        @foreach (var hosp in ViewData["HOSPITAL"] as List<Hospital>)
+        {
+            <option value="@hosp.Nombre">
+            </option>
+        }
+    </select>
+
+    <label>Id Doctor</label>
+    <input type="number" name="iddoctor"
+        class="form-control" required/>
+
+    <label>Apellido</label>
+    <input type="text" name="apellido"
+        class="form-control" required/>
+
+    <label>Especialidad</label>
+    <input type="text" name="especialidad"
+        class="form-control" required/>
+
+    <label>Salario</label>
+    <input type="number" name="salario"
+        class="form-control" required/>
+
+    <button class="btn btn-info">
+        Insertar
+    </button>
+</form>

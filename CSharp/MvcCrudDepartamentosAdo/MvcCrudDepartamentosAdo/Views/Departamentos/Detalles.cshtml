@@ -1,0 +1,26 @@
+﻿@model Departamento
+
+<h1 class="align-text-center">Detalles Departamento</h1>
+
+<a class="btn btn-danger" asp-controller="Departamentos"
+    asp-action="Index">
+    Volver a Index
+</a>
+
+<br />
+<br />
+
+<table class="table table-bordered">
+    <thead>
+        <th>Id Departamento</th>
+        <th>Nombre</th>
+        <th>Localidad</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.IdDepartamento</td>
+            <td>@Model.Nombre</td>
+            <td>@Model.Localidad</td>
+        </tr>
+    </tbody>
+</table>

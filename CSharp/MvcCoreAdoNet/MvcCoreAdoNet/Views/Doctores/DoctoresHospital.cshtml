@@ -1,0 +1,49 @@
+﻿@model List<Doctor>
+
+@{
+    List<string> nombres = (List<string>)ViewData["NOMBRE"];
+}
+
+@section scripts{
+    $(document).ready(function(){
+        $('select').formSelect();
+    })
+}
+
+<h1>Doctores Hospital</h1>
+
+<form method="post">
+    <select name="nombres">
+        @foreach (var nom in nombres)
+        {
+            <option value="@nom">@nom</option>
+        }
+    </select>
+    <button class="btn btn-success">
+        Seleccionar
+    </button>
+</form>
+
+<hr />
+
+<table>
+    <thead>
+        <tr>
+            <th>Apellido</th>
+            <th>Especialidad</th>
+            <th>Salario</th>
+            <th>Hospital</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Doctor doc in Model)
+        {
+            <tr>
+                <td>@doc.Apellido</td>
+                <td>@doc.Especialidad</td>
+                <td>@doc.Salario</td>
+                <td>@doc.IdHospital</td>
+            </tr>
+        }
+    </tbody>
+</table>

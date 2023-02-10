@@ -1,0 +1,40 @@
+﻿@model List<Doctor>
+
+<h2>Lista Doctores</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <th>Id Hospital</th>
+        <th>Id Doctor</th>
+        <th>Apellido</th>
+        <th>Especialidad</th>
+        <th>Salario</th>
+        <th>Detalles</th>
+        <th>Modificar</th>
+        <th>Eliminar</th>
+    </thead>
+    <tbody>
+        @foreach (Doctor doc in Model)
+        {
+            <tr>
+                <td>@doc.IdHospital</td>
+                <td>@doc.IdDoctor</td>
+                <td>@doc.Apellido</td>
+                <td>@doc.Especialidad</td>
+                <td>@doc.Salario</td>
+                <td>
+                    @Html.ActionLink("Detalles", "Detalles", "Doctores"
+                    , new {iddoctor = @doc.IdDoctor})
+                </td>
+                <td>
+                    @Html.ActionLink("Modificar", "Modificar", "Doctores"
+                    , new {iddoc = @doc.IdDoctor})
+                </td>
+                <td>
+                    @Html.ActionLink("Eliminar", "Eliminar", "Doctores" 
+                    , new {iddoctor = @doc.IdDoctor})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

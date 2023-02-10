@@ -1,0 +1,22 @@
+﻿@model Departamento
+
+<h1>Modificar Departamento</h1>
+
+<form method="post">
+    <h4>Id: @Model.IdDepartamento</h4>
+    <input type="hidden" name="iddepartamento"
+        value="@Model.IdDepartamento"/>
+
+    <label>Nombre: </label>
+    <input type="text" name="nombre"
+        class="form-control" required value="@Model.Nombre"/>
+
+    <label>Localidad:</label>
+    <input type="text" name="localidad"
+        class="form-control" required value="@Model.Localidad"/>
+
+    <button class="btn btn-info">
+        Modificar
+    </button>
+</form>
+

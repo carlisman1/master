@@ -1,0 +1,37 @@
+﻿@model List<Departamento>
+
+<h1>Coleccion de departamentos</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <th>Id Departamento</th>
+        <th>Nombre</th>
+        <th>Localidad</th>
+        <th>Detalles</th>
+        <th>Modificar</th>
+        <th>Eliminar</th>
+    </thead>
+    <tbody>
+        @foreach (Departamento dept in Model)
+        {
+            <tr>
+                <td>@dept.IdDepartamento</td>
+                <td>@dept.Nombre</td>
+                <td>@dept.Localidad</td>
+                <td>
+                    @Html.ActionLink("Detalles", "Detalles", "Departamentos"
+                    , new {iddepartamento = dept.IdDepartamento})
+                </td>
+                <td>
+                    @Html.ActionLink("Modificar", "Update", "Departamentos"
+                    , new {iddepartamento = dept.IdDepartamento})
+                </td>
+                <td>
+                    @Html.ActionLink("Eliminar", "Delete", "Departamentos"
+                    , new {iddepartamento = dept.IdDepartamento})
+                </td>
+            </tr>
+        }
+        
+    </tbody>
+</table>

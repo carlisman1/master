@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PrimerMvcNetCore
+build_property.RootNamespace = PrimerMvcNetCore
+build_property.ProjectDir = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\PrimerMvcNetCore\PrimerMvcNetCore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\PrimerMvcNetCore\PrimerMvcNetCore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Informacion/ControladorVista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNpb25cQ29udHJvbGFkb3JWaXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Informacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Informacion/VistaControladorGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNpb25cVmlzdGFDb250cm9sYWRvckdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Informacion/VistaControladorPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYWNpb25cVmlzdGFDb250cm9sYWRvclBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Matematica/ConjeturaCollatz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZW1hdGljYVxDb25qZXR1cmFDb2xsYXR6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Matematica/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZW1hdGljYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Matematica/SumarNumeroGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZW1hdGljYVxTdW1hck51bWVyb0dldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Matematica/SumarNumeroPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZW1hdGljYVxTdW1hck51bWVyb1Bvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Matematica/TablaMultiplicar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZW1hdGljYVxUYWJsYU11bHRpcGxpY2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Matematica/TablaMultiplicarCompuesta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZW1hdGljYVxUYWJsYU11bHRpcGxpY2FyQ29tcHVlc3RhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Prueba/PrimeraPagina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJ1ZWJhXFByaW1lcmFQYWdpbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/PrimerMvcNetCore/PrimerMvcNetCore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8kop0tckf2

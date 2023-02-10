@@ -1,0 +1,17 @@
+﻿@model List<Doctor>
+
+<a asp-controller="Doctores"
+    asp-action="Index">
+    Volver a doctores
+</a>
+
+@foreach (Doctor doctor in Model)
+{
+    <div class="text-center">
+        <h2>Id Hospital: @doctor.IdHospital</h2>
+        <h2>Id Doctor: @doctor.IdDoctor</h2>
+        <h1>Apellido: @doctor.Apellido</h1>
+        <h2>Especialida: @doctor.Especialidad</h2>
+        <h2>Salario: @doctor.Salario</h2>
+    </div>
+}
