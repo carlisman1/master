@@ -1,6 +1,6 @@
 ﻿namespace NetCoreLinqToSqlInjection.Models
 {
-    public class Coche
+    public class Coche:ICoche
     {
         public string Marca { get; set; }
         public string Modelo { get; set; }

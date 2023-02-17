@@ -1,0 +1,29 @@
+﻿@model Hospital
+
+<h1>Modificar</h1>
+
+<form method="post">
+    <label>Id hospital</label>
+    <input name="idhospital"
+        class="form-control" readonly value="@Model.IdHospital"/>
+
+        <label>Nombre</label>
+    <input name="nombre"
+        class="form-control" required value="@Model.Nombre"/>
+
+        <label>Direccion</label>
+    <input name="direccion"
+        class="form-control" required value="@Model.Direccion"/>
+
+        <label>Telefono</label>
+    <input name="telefono"
+        class="form-control" required value="@Model.Telefono"/>
+
+        <label>Numero Cama</label>
+    <input name="numCama"
+        class="form-control" required value="@Model.NumCama"/>
+
+    <button class="btn btn-success">
+        Insertar
+    </button>
+</form>

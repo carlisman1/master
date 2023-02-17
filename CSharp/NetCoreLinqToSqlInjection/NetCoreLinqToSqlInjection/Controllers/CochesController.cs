@@ -3,12 +3,15 @@ using NetCoreLinqToSqlInjection.Models;
 
 public class CochesController : Controller
 {
-    private Coche car;
+    private ICoche car;
 
-    public CochesController()
+    public CochesController(ICoche car)
     {
-        this.car = new Coche();
+
+        this.car = car;
     }
+
+
 
     public IActionResult Index()
     {

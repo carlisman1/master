@@ -1,0 +1,22 @@
+﻿@model Departamento
+
+<h1>Insertar departamento</h1>
+
+<form method="post">
+
+    <label>Numero departamento</label>
+    <input type="number" name="iddepartamento"
+        class="form-control" readonly value="@Model.IdDeptartamento"/>
+
+    <label>Nombre</label>
+    <input type="text" name="nombre"
+        class="form-control" required value="@Model.Nombre"/>
+
+    <label>Localidad</label>
+    <input type="text" name="localidad"
+        class="form-control" required value="@Model.Localidad"/>
+
+    <button class="btn btn-success">
+        Insertar
+    </button>
+</form>

@@ -1,0 +1,24 @@
+﻿@model Hospital
+
+<h1>Lista Hospitales</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Codigo Hospital</td>
+            <td>Nombre</td>
+            <td>Direccion</td>
+            <td>Telefono</td>
+            <td>Numero Cama</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.HospitalCod</td>
+            <td>@Model.Nombre</td>
+            <td>@Model.Direccion</td>
+            <td>@Model.Telefono</td>
+            <td>@Model.NumCama</td>
+        </tr>
+    </tbody>
+</table>
