@@ -24,9 +24,9 @@ namespace SegundaPracticaJaunCarlosMarañon.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Insertar(int idcomic, string nombre, string imagen, string descripcion)
+        public IActionResult Insertar(string nombre, string imagen, string descripcion)
         {
-            this.repo.InsertarComic(idcomic, nombre, imagen, descripcion);
+            this.repo.InsertarComic(nombre, imagen, descripcion);
             return RedirectToAction("Index");
         }
     }

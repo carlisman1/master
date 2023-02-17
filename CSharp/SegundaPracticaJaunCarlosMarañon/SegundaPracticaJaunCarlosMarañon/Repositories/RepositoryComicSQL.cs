@@ -4,9 +4,9 @@ using SegundaPracticaJaunCarlosMarañon.Models;
 
 
 #region PROCEDURES
-//CREATE PROCEDURE SP_INSERTAR_COMIC(@idcomic int, @nombre nvarchar(50), @imagen nvarchar(50), @descripcion nvarchar(50)) 
+//CREATE PROCEDURE SP_INSERTAR_COMIC(@nombre nvarchar(50), @imagen nvarchar(50), @descripcion nvarchar(50)) 
 //as
-//    insert into COMICS values(@idcomic, @nombre, @imagen, @descripcion)
+//    insert into COMICS values((select max(IDCOMIC) +1 from COMICS), @nombre, @imagen, @descripcion)
 //go
 #endregion
 
@@ -44,26 +44,18 @@ namespace SegundaPracticaJaunCarlosMarañon.Repositories
             {
                 com.Add(new Comic()
                 {
-                    idcomic = row.Field<int>("IDCOMIC"),
-                    nombre = row.Field<string>("NOMBRE"),
-                    imagen = row.Field<string>("IMAGEN"),
-                    descripcion = row.Field<string>("DESCRIPCION")
+                    Idcomic = row.Field<int>("IDCOMIC"),
+                    Nombre = row.Field<string>("NOMBRE"),
+                    Imagen = row.Field<string>("IMAGEN"),
+                    Descripcion = row.Field<string>("DESCRIPCION")
                 });
             }
             return com;
         }
 
-        public int GetMaximo()
-        {
-            var maximo = (from datos in this.GetComics() select datos).Max(x => x.idcomic);
-            return maximo + 1;
-        }
-
-        public void InsertarComic(int idcomic, string nombre, string imagen, string descripcion)
+        public void InsertarComic(string nombre, string imagen, string descripcion)
         {
             
-            SqlParameter pamid = new SqlParameter("@idcomic", GetMaximo());
-            this.cmd.Parameters.Add(pamid);
             SqlParameter pamnombre = new SqlParameter("@nombre", nombre);
             this.cmd.Parameters.Add(pamnombre);
             SqlParameter pamimagen = new SqlParameter("@imagen", imagen);

@@ -2,9 +2,9 @@
 {
     public class Comic
     {
-        public int idcomic { get; set; }
-        public string nombre { get; set; }
-        public string imagen { get; set; }
-        public string descripcion { get; set; }
+        public int Idcomic { get; set; }
+        public string Nombre { get; set; }
+        public string Imagen { get; set; }
+        public string Descripcion { get; set; }
     }
 }

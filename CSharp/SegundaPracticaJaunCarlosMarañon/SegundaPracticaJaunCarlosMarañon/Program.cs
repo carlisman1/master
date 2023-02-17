@@ -4,8 +4,8 @@ using SegundaPracticaJaunCarlosMarañon.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//builder.Services.AddTransient<IRepositoryComic, RepositoryComicSQL>();
-builder.Services.AddTransient<IRepositoryComic, RepositoryComicOracle>();
+builder.Services.AddTransient<IRepositoryComic, RepositoryComicSQL>();
+//builder.Services.AddTransient<IRepositoryComic, RepositoryComicOracle>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

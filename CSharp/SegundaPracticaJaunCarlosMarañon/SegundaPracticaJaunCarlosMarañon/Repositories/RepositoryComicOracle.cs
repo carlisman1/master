@@ -7,6 +7,15 @@ using Oracle.ManagedDataAccess.Client;
 
 
 #region PROCEDURES
+//CREATE OR REPLACE PROCEDURE SP_INSERTAR_COMIC
+//(P_nombre COMICS.NOMBRE%TYPE,
+//P_imagen COMICS.IMAGEN%TYPE,
+//P_descripcion COMICS.DESCRIPCION%TYPE)
+//AS
+//BEGIN
+//  INSERT INTO COMICS VALUES((select max(IDCOMIC) +1 FROM COMICS), P_nombre, P_imagen, P_descripcion);
+//COMMIT;
+//END;
 #endregion
 
 
@@ -41,19 +50,17 @@ namespace SegundaPracticaJaunCarlosMarañon.Repositories
             {
                 com.Add(new Comic()
                 {
-                    idcomic = row.Field<int>("IDCOMIC"),
-                    nombre = row.Field<string>("NOMBRE"),
-                    imagen = row.Field<string>("IMAGEN"),
-                    descripcion = row.Field<string>("DESCRIPCION")
+                    Idcomic = row.Field<int>("IDCOMIC"),
+                    Nombre = row.Field<string>("NOMBRE"),
+                    Imagen = row.Field<string>("IMAGEN"),
+                    Descripcion = row.Field<string>("DESCRIPCION")
                 });
             }
             return com;
         }
 
-        public void InsertarComic(int idcomic, string nombre, string imagen, string descripcion)
+        public void InsertarComic(string nombre, string imagen, string descripcion)
         {
-            OracleParameter pamid = new OracleParameter(":P_idcomic", idcomic);
-            this.cmd.Parameters.Add(pamid);
             OracleParameter pamnombre = new OracleParameter(":P_nombre", nombre);
             this.cmd.Parameters.Add(pamnombre);
             OracleParameter pamimagen = new OracleParameter(":P_imagen", imagen);
