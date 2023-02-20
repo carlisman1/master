@@ -91,6 +91,15 @@ namespace MvcCoreEfProcedures.Repositories
             return enfermo;
         }
 
-        //public void InsertarEnfermo(string inscripcion, )
+        public void DeleteEnfermo(string inscripcion)
+        {
+            string sql = "SP_DELETE_ENFERMO @INSCRIPCION";
+            SqlParameter paminscripcion =
+                new SqlParameter("@INSCRIPCION", inscripcion);
+            //PARA EJECTUTAR CONSULTAS DE ACCCION EN UN PREOCEDURE
+            //SE UTILIZA EL METODO ExecuteSqlRaw() Y VIENE DESDE
+            //Database
+            this.context.Database.ExecuteSqlRaw(sql, paminscripcion);
+        }
     }
 }

@@ -23,5 +23,11 @@ namespace MvcCoreEfProcedures.Controllers
         {
             return View(this.repo.FindEnfermo(inscripcion));
         }
+
+        public IActionResult Delete(string inscripcion)
+        {
+            this.repo.DeleteEnfermo(inscripcion);
+            return RedirectToAction("Index");
+        }
     }
 }

@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\MvcCoreEfProcedures\MvcCoreEfProcedures
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEfProcedures/MvcCoreEfProcedures/Views/Doctores/Especialidades.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yZXNcRXNwZWNpYWxpZGFkZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEfProcedures/MvcCoreEfProcedures/Views/Doctores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEfProcedures/MvcCoreEfProcedures/Views/Enfermos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5mZXJtb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
