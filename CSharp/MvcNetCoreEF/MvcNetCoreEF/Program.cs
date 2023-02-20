@@ -9,8 +9,10 @@ string connectionString =
     builder.Configuration.GetConnectionString("SqlHospital");
 
 //SI UTILIZAMOS CONTEXT DE EF ESTAMOS OBLIGADOS
-//A UTILIZAR 
+//A UTILIZAR  Transient EN LOS REPOSITORIOS
+
 builder.Services.AddTransient<RepositoryHospital>();
+builder.Services.AddTransient<RepositoryEmpleados>();
 
 builder.Services.AddDbContext<HospitalContext>
     (options => options.UseSqlServer(connectionString));

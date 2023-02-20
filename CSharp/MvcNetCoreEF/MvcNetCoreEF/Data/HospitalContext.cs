@@ -10,5 +10,7 @@ namespace MvcNetCoreEF.Data
         { }
 
         public DbSet<Hospital> Hospitales { get; set; }
+
+        public DbSet<Empleado> Empleados { get; set; }
     }
 }
