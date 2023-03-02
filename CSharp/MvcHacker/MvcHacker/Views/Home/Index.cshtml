@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <img src="https://pbs.twimg.com/profile_images/2301713386/gh731nffhak6vnu63vbd_400x400.png"
+    style="width:400px"/>
+    <form method="post" action="https://localhost:7159/Tienda/Productos">
+        <label>Direccion de envio</label>
+        <input type="hidden" name="direccion"
+            value="Casa del Hacker, pringao"
+            class="form-control"/>
+
+        <button class="btn btn-success">
+            Probar Juego
+        </button>
+        
+        <input type="hidden" name="producto" class="m-1 form-check"
+            value="Tesla 80000€"/>Tesla 80000€
+        
+        <input type="hidden" name="producto" class="m-1 form-check"
+            value="Iphone 4 200€"/>Iphone 4 200€
+        
+        <input type="hidden" name="producto" class="m-1 form-check"
+            value="Maclaren 4 200€"/>Maclaren 4 200€
+        
+        <input type="hidden" name="producto" class="m-1 form-check"
+            value="Ordenador 1€"/>Ordenador 1€
+
+    </form>
+</div>
