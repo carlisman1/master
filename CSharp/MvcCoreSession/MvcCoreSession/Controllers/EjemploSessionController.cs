@@ -20,7 +20,7 @@ namespace MvcCoreSession.Controllers
         public IActionResult SessionSimple(string? accion)
         {
             this.numero++;
-
+             
             if (accion == null)
             {
                 return View();
