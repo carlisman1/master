@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\MvcCoreSession\MvcCoreSession
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreSession/MvcCoreSession/Views/EjemploSession/ColeccionSessionObject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsb1Nlc3Npb25cQ29sZWNjaW9uU2Vzc2lvbk9iamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreSession/MvcCoreSession/Views/EjemploSession/ColeccionSessionPersona.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsb1Nlc3Npb25cQ29sZWNjaW9uU2Vzc2lvblBlcnNvbmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +29,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreSession/MvcCoreSession/Views/EjemploSession/SessionPersona.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsb1Nlc3Npb25cU2Vzc2lvblBlcnNvbmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreSession/MvcCoreSession/Views/EjemploSession/SessionPersonaJson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsb1Nlc3Npb25cU2Vzc2lvblBlcnNvbmFKc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreSession/MvcCoreSession/Views/EjemploSession/SessionPersonaObject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplbXBsb1Nlc3Npb25cU2Vzc2lvblBlcnNvbmFPYmplY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreSession/MvcCoreSession/Views/EjemploSession/SessionSimple.cshtml]

@@ -1,29 +1,34 @@
-﻿using System.Runtime.Serialization.Formatters.Binary;
+﻿using Newtonsoft.Json.Linq;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.Text.Json.Serialization;
+using System.Text.Json;
+using System.Text;
 
 namespace MvcCoreSession.Helpers
 {
     public class HelperBinarySession
     {
-        //TENDREMOS DOS METODOS STATIC
-        //UNO PARA CONVERTIR BINARY A OBJECT
-        public static byte[] ObjectToByte(Object objeto)
+        public static byte[]? ObjectToByte(object obj)
         {
-            BinaryFormatter formatter = new BinaryFormatter();
-            using (MemoryStream stream = new MemoryStream())
+            if (obj == null)
+                return null;
+            BinaryFormatter bf = new();
+            using (MemoryStream ms = new())
             {
-                formatter.Serialize(stream, objeto);
-                return stream.ToArray();
+                bf.Serialize(ms, obj);
+                return ms.ToArray();
             }
         }
-        //OTRO METODO PARA RECUPERAR UN BINARY A OBJECT
-        public static Object ByteToObject(byte[] data)
+
+        public static object ByteToObject(byte[] data)
         {
-            BinaryFormatter formatter = new BinaryFormatter();
-            using (MemoryStream stream = new MemoryStream())
+            BinaryFormatter bf = new();
+            using (MemoryStream ms = new())
             {
-                stream.Write(data, 0, data.Length);
-                stream.Seek(0, SeekOrigin.Begin);
-                Object objeto = (Object)formatter.Deserialize(stream);
+                ms.Write(data, 0, data.Length);
+                ms.Seek(0, SeekOrigin.Begin);
+                Object objeto = (Object)bf.Deserialize(ms);
                 return objeto;
             }
         }

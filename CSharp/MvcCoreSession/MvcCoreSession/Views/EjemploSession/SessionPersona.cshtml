@@ -1,23 +1,14 @@
 ﻿@{
-    Persona persona =(Persona?)ViewData["PERSONA"];
+    Persona? persona = (Persona?)ViewData["PERSONA"];
 }
 
-<h1>
-    Session Persona
-</h1>
+<h1>Session Simple</h1>
 
-<a asp-controller="EjemploSession" asp-action="SessionPersona"
-    asp-route-accion="almacenar" class="btn btn-success">
-    Almacenar persona
-</a>
+<a class="btn btn-primary" asp-controller="EjemploSession" asp-action="SessionPersona" asp-route-accion="almacenar">Almacenar</a>
+<a class="btn btn-primary" asp-controller="EjemploSession" asp-action="SessionPersona" asp-route-accion="mostrar">Mostrar</a>
 
-<a asp-controller="EjemploSession" asp-action="SessionPersona"
-    asp-route-accion="mostrar" class="btn btn-info">
-    Mostrar persona
-</a>
+<h2>Nombre: @persona?.Nombre</h2>
+<h2>Edad: @persona?.Edad</h2>
+<h2>Email: @persona?.Email</h2>
 
-@if (persona != null){
-    <h2>@persona.Nombre</h2>
-    <h2>@persona.Email</h2>
-    <h2>@persona.Edad</h2>
-}
+<h3>Mensaje: @ViewData["MENSAJE"]</h3>

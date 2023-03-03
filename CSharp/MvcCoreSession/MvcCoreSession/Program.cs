@@ -1,16 +1,16 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//NECESITAMOS EL SERVICIO DE MEMORIA EN CACHE
-builder.Services.AddDistributedMemoryCache();
-//UN SESSION FUNCIONA POR TIEMPO DE INACTIVIDAD
-builder.Services.AddSession(option =>
-{
-    option.IdleTimeout = TimeSpan.FromMinutes(5);
-});
-
-
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+// Habilitar memoria cache
+builder.Services.AddDistributedMemoryCache();
+// Un session funciona por tiempo de inactividad
+builder.Services.AddSession(options =>
+{
+    options.IOTimeout = TimeSpan.FromMinutes(10);
+});
 
 var app = builder.Build();
 
@@ -29,7 +29,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-//IMPORTA EL ORDEN app.UseSession();
 app.UseSession();
 
 app.MapControllerRoute(

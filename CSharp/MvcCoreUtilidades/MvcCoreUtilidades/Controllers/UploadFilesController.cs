@@ -34,6 +34,7 @@ namespace MvcCoreUtilidades.Controllers
                 await fichero.CopyToAsync(stream);
             }
             ViewData["MENSAJE"] = "Fichero subido a " + path;
+            ViewData["URL"] = "<a href='https://img.freepik.com/foto-gratis/bulldog-frances-marron-joven-jugando-aislado-pared-blanca-estudio_155003-31898.jpg'>Mi fichero</a>";
             return View();
         }
     }
