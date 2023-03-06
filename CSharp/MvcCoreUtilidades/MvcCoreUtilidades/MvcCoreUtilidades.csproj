@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\Temporal\" />
     <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
 

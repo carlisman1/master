@@ -7,13 +7,13 @@ namespace MvcCoreUtilidades.Controllers
 {
     public class MailsController : Controller
     {
-        private HelperPathProvider helperPath;
-        private IConfiguration configuration;
+        private HelperUploadFiles helperUploadFiles;
+        private HelperMail helperMail;
 
-        public MailsController(HelperPathProvider helperPath, IConfiguration configuration)
+        public MailsController(HelperUploadFiles helperUploadFiles, HelperMail helperMail)
         {
-            this.helperPath = helperPath;
-            this.configuration = configuration;
+            this.helperUploadFiles = helperUploadFiles;
+            this.helperMail = helperMail;
         }
 
         public IActionResult SendMail()
@@ -23,45 +23,26 @@ namespace MvcCoreUtilidades.Controllers
 
         [HttpPost]
         public async Task<IActionResult> SendMail
-            (string para, string asunto, string mensaje, IFormFile file)
+            (string para, string asunto, string mensaje, List<IFormFile> file)
         {
-            MailMessage mail = new MailMessage();
-            //NECESITAMOS INDICAR DESDE QUE CUENTA ESTAMOS ENVIANDO
-            string user = this.configuration.GetValue<string>
-                ("MailSettings:Credentials:User");
-            mail.From = new MailAddress(user);
-            //LOS DESTINATARIOS SON UNA COLECCION
-            mail.To.Add(new MailAddress(para));
-            mail.Subject = asunto;
-            mail.Body = mensaje;
-            mail.IsBodyHtml = true;
-            mail.Priority = MailPriority.Normal;
-            //COMPROBAMOS SI EXISTE UN FILE
+            List<string> paths = new List<string>();
+            List<IFormFile> fileList = new List<IFormFile>();
+            foreach (IFormFile f in file)
+            {
+                string path =
+                    await this.helperUploadFiles.UploadFileAsync(f, Folders.Temporal);
+                paths.Add(path);
+            }
             if(file != null)
             {
-                //LOS HACEMOS LUEGO
+                
+                await this.helperMail.SendMailAsync(para, asunto, mensaje, paths);
             }
-            //VAMOS A CONFIGURAR LAS CREDENCIALES PARA ENVIAR EL CORREO
-            string password = this.configuration.GetValue<string>
-                ("MailSettings:Credentials:Password");
-            string hostName = this.configuration.GetValue<string>
-                ("MailSettings:Smtp:Host");
-            int port = this.configuration.GetValue<int>
-                ("MailSettings:Smtp:Port");
-            bool enableSSL = this.configuration.GetValue<bool>
-                ("MailSettings:Smtp:EnableSSL");
-            bool defaultCredentials = this.configuration.GetValue<bool>
-                ("MailSettings:Smtp:EnableSSL");
-            //CREAMOS EL CLIENTE SMTP
-            SmtpClient client = new SmtpClient();
-            client.Host = hostName;
-            client.Port = port;
-            client.EnableSsl = enableSSL;
-            client.UseDefaultCredentials = defaultCredentials;
-            NetworkCredential credentials =
-                new NetworkCredential(user, password);
-            client.Credentials = credentials;
-            await client.SendMailAsync(mail);
+            else
+            {
+                await this.helperMail.SendMailAsync(para, asunto, mensaje);
+            }
+
             ViewData["MENSAJE"] = "Email enviado correctamente";
             return View();
         }
