@@ -4,7 +4,6 @@
 
     public class HelperPathProvider
     {
-
         private IWebHostEnvironment hostEnvironment;
 
         public HelperPathProvider(IWebHostEnvironment hostEnvironment)

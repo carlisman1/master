@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\MvcCoreUtilidades\MvcCoreUtilidades
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Email/SendMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcU2VuZE1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
