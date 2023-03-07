@@ -30,8 +30,19 @@ namespace AppTorneos.Controllers
                 this.repo.InsertarUsuario(nombre, usuariotag, email, contrasenia);
             }else if (accion == "iniciosesion")
             {
+                User usuario = this.repo.LoginUsuarios(email, contrasenia);
+                if (usuario != null)
+                {
+                    //GUARDAR EN SESION
+                    ViewData["MENSAJE"] = "INIASTE SESION";
+                    //return a vista de menu de inicio
+                }
+                else
+                {
+                    ViewData["MENSAJE"] = "ERROR EN LAS CREDENCIALES";
+                }
                 //AQUI EL INICIO DE SESION
-                ViewData["MENSAJE"] = "INIASTE SESION";
+                
                 //SI COINCIDE EL USUARIO, GUARDA EN SESION Y REDIRIGE SIGUIENTE VISTA
                 //SI NO DEVUELVELE A LA VISTA CON ERROR
             }
