@@ -1,6 +1,17 @@
+using AppTorneos.Data;
+using AppTorneos.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+string connectionString =
+    builder.Configuration.GetConnectionString("TorneoBBDD");
+builder.Services.AddTransient<RepositoryUsuarios>();
+builder.Services.AddDbContext<BWTOURNAMENTContext>
+    (options => options.UseSqlServer(connectionString));
+
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -22,6 +33,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Usuario}/{action=InicioPagina}");
+    pattern: "{controller=LoginUsuario}/{action=InicioPagina}");
 
 app.Run();

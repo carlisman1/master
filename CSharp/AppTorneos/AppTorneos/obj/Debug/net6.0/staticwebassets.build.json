@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iFDgggiE+cROGyF/zLR3JT5uqjht8Ol66UTSjXfF4hM=",
+  "Hash": "2w4mfgRyQEr46DjdQRr6LG6fPE6eLKFGZLVEsd9nRW8=",
   "Source": "AppTorneos",
   "BasePath": "_content/AppTorneos",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AppTorneos\\wwwroot",
       "Source": "AppTorneos",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppTorneos.styles.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppTorneos.styles.css",
       "SourceId": "AppTorneos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "AppTorneos.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppTorneos.styles.css"
+      "OriginalItemSpec": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppTorneos.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppTorneos.bundle.scp.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppTorneos.bundle.scp.css",
       "SourceId": "AppTorneos",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "AppTorneos.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppTorneos.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppTorneos.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\cssBase.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\cssBase.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/cssBase.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cssBase.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\Genos-VariableFont_wght.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\Genos-VariableFont_wght.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/Genos-VariableFont_wght.ttf",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\Genos-VariableFont_wght.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Black.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Black.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Black.ttf",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-BlackItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-BlackItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-BlackItalic.ttf",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-BlackItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Bold.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Bold.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Bold.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-BoldItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-BoldItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-BoldItalic.ttf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraBold.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraBold.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-ExtraBold.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraBoldItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraBoldItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraLight.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraLight.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-ExtraLight.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraLightItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ExtraLightItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Italic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Italic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Italic.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Light.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Light.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Light.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-LightItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-LightItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-LightItalic.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Medium.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Medium.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Medium.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-MediumItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-MediumItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-MediumItalic.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-MediumItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Regular.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Regular.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Regular.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-SemiBold.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-SemiBold.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-SemiBold.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-SemiBoldItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-SemiBoldItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Thin.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-Thin.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-Thin.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ThinItalic.ttf",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\css\\Genos\\static\\Genos-ThinItalic.ttf",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "css/Genos/static/Genos-ThinItalic.ttf",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Genos\\static\\Genos-ThinItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\favicon.ico",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\images\\logoBrawl.png",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\images\\logoBrawl.png",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "images/logoBrawl.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logoBrawl.png"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\js\\site.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AppTorneos",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\wwwroot\\",
       "BasePath": "_content/AppTorneos",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

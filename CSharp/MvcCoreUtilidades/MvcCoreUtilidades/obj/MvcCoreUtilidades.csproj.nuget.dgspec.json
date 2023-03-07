@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj": {}
+    "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj": {
+    "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj",
+        "projectUniqueName": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj",
         "projectName": "MvcCoreUtilidades",
-        "projectPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj",
-        "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\",
+        "projectPath": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\MvcCoreUtilidades.csproj",
+        "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

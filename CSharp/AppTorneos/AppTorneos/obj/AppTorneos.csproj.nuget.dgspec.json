@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj": {}
+    "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj": {
+    "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj",
+        "projectUniqueName": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj",
         "projectName": "AppTorneos",
-        "projectPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj",
-        "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\",
+        "projectPath": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\AppTorneos.csproj",
+        "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JC\\Documents\\GitHub\\master\\CSharp\\AppTorneos\\AppTorneos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,11 +46,11 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[6.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[6.0.14, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
