@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcCoreEmpleadosSession
+build_property.RootNamespace = MvcCoreEmpleadosSession
+build_property.ProjectDir = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\MvcCoreEmpleadosSession\MvcCoreEmpleadosSession\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\MvcCoreEmpleadosSession\MvcCoreEmpleadosSession
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Empleados/EmpleadosAlmacenadosOK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVtcGxlYWRvc0FsbWFjZW5hZG9zT0suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Empleados/EmpleadosAlmacenadosSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVtcGxlYWRvc0FsbWFjZW5hZG9zU2Vzc2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Empleados/EmpleadosSessionOK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVtcGxlYWRvc1Nlc3Npb25PSy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Empleados/SessionEmpleados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXFNlc3Npb25FbXBsZWFkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Empleados/SessionSalarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXFNlc3Npb25TYWxhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Empleados/SumaSalarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXFN1bWFTYWxhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreEmpleadosSession/MvcCoreEmpleadosSession/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-irl0s58el5

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCryptographyBBDD", "MvcCryptographyBBDD\MvcCryptographyBBDD.csproj", "{05DABFBB-884E-4ADF-A001-24F44A68CDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DABFBB-884E-4ADF-A001-24F44A68CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DABFBB-884E-4ADF-A001-24F44A68CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DABFBB-884E-4ADF-A001-24F44A68CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DABFBB-884E-4ADF-A001-24F44A68CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8427F031-5DA0-45F5-828D-8818ABBEB59A}
+	EndGlobalSection
+EndGlobal
