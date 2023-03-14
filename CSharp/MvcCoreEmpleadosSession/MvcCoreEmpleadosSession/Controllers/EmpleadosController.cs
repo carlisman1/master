@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using MvcCoreEmpleadosSession.Extensions;
 using MvcCoreEmpleadosSession.Models;
 using MvcCoreEmpleadosSession.Repositories;
@@ -7,14 +8,64 @@ namespace MvcCoreEmpleadosSession.Controllers
 {
     public class EmpleadosController : Controller
     {
-        private RepositoryEmpleados repo;
+        private readonly RepositoryEmpleados repo;
+        private readonly IMemoryCache memoryCache;
 
-        public EmpleadosController(RepositoryEmpleados repo)
+        public EmpleadosController(RepositoryEmpleados repo, IMemoryCache memoryCache)
         {
             this.repo = repo;
+            this.memoryCache = memoryCache;
         }
 
-        public IActionResult EmpleadosAlmacenadosOK()
+        public IActionResult EmpleadosFavoritos()
+        {
+            return View();
+        }
+
+        public IActionResult EmpleadosSessionOK(int? idempleado
+        , int? idfavorito)
+        {
+            if (idfavorito != null)
+            {
+                List<Empleado> empleadosFavoritos;
+                if (this.memoryCache.Get("FAVORITOS") == null)
+                {
+                    empleadosFavoritos = new List<Empleado>();
+                }
+                else
+                {
+                    empleadosFavoritos = this.memoryCache.Get<List<Empleado>>("FAVORITOS");
+                }
+                //BUSCAMOS AL EMPLEADO EN BBDD PARA ALMACENARLO EN CACHE
+                Empleado empleado = this.repo.FindEmpleado(idfavorito.Value);
+                empleadosFavoritos.Add(empleado);
+                //ALMACENAMOS LOS DATOS EN CACHE
+                this.memoryCache.Set("FAVORITOS", empleadosFavoritos);
+            }
+            if (idempleado != null)
+            {
+                List<int> idsEmpleado;
+                if (HttpContext.Session.GetObject<List<int>>("IDSEMPLEADOS") == null)
+                {
+                    //CREAMOS LA LISTA PARA LOS IDS
+                    idsEmpleado = new List<int>();
+                }
+                else
+                {
+                    //RECUPERAMOS LOS IDS ALMACENADOS PREVIAMENTE
+                    idsEmpleado =
+                        HttpContext.Session.GetObject<List<int>>("IDSEMPLEADOS");
+                }
+                idsEmpleado.Add(idempleado.Value);
+                HttpContext.Session.SetObject("IDSEMPLEADOS", idsEmpleado);
+                ViewData["MENSAJE"] = "Empleados almacenados: "
+                    + idsEmpleado.Count;
+            }
+            List<Empleado> empleados = this.repo.GetEmpleados();
+            return View(empleados);
+        }
+
+        public IActionResult EmpleadosAlmacenadosOK(int? ideliminar)
         {
             //RECUPERAMOS LOS DATOS DE SESSION
             List<int> idsEmpleados =
@@ -28,13 +79,27 @@ namespace MvcCoreEmpleadosSession.Controllers
             }
             else
             {
+                if(ideliminar != null)
+                {
+                    //ELIMINAMOS EL ELEMENTO QUE NOS HAN SOLICITADO
+                    idsEmpleados.Remove(ideliminar.Value);
+                    if (idsEmpleados.Count == 0)
+                    {
+                        HttpContext.Session.Remove("IDSEMPLEADOS");
+                    }
+                    else
+                    {
+                        //DEBEMOS ACTUALIZAR DE NUEVO SESSION
+                        HttpContext.Session.SetObject("IDSEMPLEADOS", idsEmpleados);
+                    }
+                }
                 List<Empleado> empleadosSession =
                     this.repo.GetEmpleadosSession(idsEmpleados);
                 return View(empleadosSession);
             }
         }
 
-        public IActionResult EmpleadosSessionOK(int? idempleado)
+        public IActionResult EmpleadosSession(int? idempleado)
         {
             if(idempleado != null)
             {

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppTorneos",
+    "\\AppTorneos\\Data",
+    "\\AppTorneos\\Extensions",
+    "\\AppTorneos\\Helpers",
+    "\\AppTorneos\\Models",
+    "\\AppTorneos\\Repositories",
+    "\\AppTorneos\\Views",
+    "\\AppTorneos\\wwwroot",
+    "\\AppTorneos\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\AppTorneos\\Repositories\\RepositoryUsuarios.cs",
+  "PreviewInSolutionExplorer": false
+}

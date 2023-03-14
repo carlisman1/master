@@ -2,6 +2,7 @@
 using AppTorneos.Models;
 using System.Text;
 using AppTorneos.Repositories;
+using AppTorneos.Extensions;
 
 namespace AppTorneos.Controllers
 {
@@ -27,7 +28,7 @@ namespace AppTorneos.Controllers
             {
                 //AQUI HAZ EL REGISTRO
                 ViewData["MENSAJE"] = "INIASTE REGISTRO";
-                this.repo.InsertarUsuario(nombre, usuariotag, email, contrasenia);
+                this.repo.InsertarUsuario( usuariotag, nombre, email, contrasenia);
             }else if (accion == "iniciosesion")
             {
                 User usuario = this.repo.LoginUsuarios(email, contrasenia);
@@ -35,7 +36,9 @@ namespace AppTorneos.Controllers
                 {
                     //GUARDAR EN SESION
                     ViewData["MENSAJE"] = "INIASTE SESION";
+                    HttpContext.Session.SetObject("USUARIO", usuario);
                     //return a vista de menu de inicio
+                    return RedirectToAction("MenuInicio", "Inicio");
                 }
                 else
                 {
@@ -49,21 +52,10 @@ namespace AppTorneos.Controllers
             return View();
         }
 
-        public IActionResult SessionPersonaJson(string? accion)
+        public IActionResult CerrarSession()
         {
-            if(accion == null)
-            {
-                return View();
-            }
-
-            if(accion.ToLower() == "almacenar")
-            {
-                User usu = new()
-                {
-                    
-                };
-            }
-            return View();
+            HttpContext.Session.Remove("USUARIO");
+            return RedirectToAction("InicioPagina");
         }
     }
 }

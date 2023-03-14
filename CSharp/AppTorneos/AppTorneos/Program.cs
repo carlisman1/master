@@ -5,10 +5,14 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options => {
+    options.IdleTimeout = TimeSpan.FromMinutes(180);
+});
 string connectionString =
     builder.Configuration.GetConnectionString("TorneoBBDD");
 builder.Services.AddTransient<RepositoryUsuarios>();
-builder.Services.AddDbContext<BWTOURNAMENTContext>
+builder.Services.AddDbContext<BSTournamentContext>
     (options => options.UseSqlServer(connectionString));
 
 
@@ -31,6 +35,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseSession();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=LoginUsuario}/{action=InicioPagina}");

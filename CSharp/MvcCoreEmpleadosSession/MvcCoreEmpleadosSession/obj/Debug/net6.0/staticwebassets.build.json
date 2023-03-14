@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i5aAaVB3RJUoRmSTx3i2m9btNjMuYomdRRRRnj0Aj80=",
+  "Hash": "rB8h5JHq3LJgRuDJIqHLIdPgSoRyX6F62H9X9YPgXeE=",
   "Source": "MvcCoreEmpleadosSession",
   "BasePath": "_content/MvcCoreEmpleadosSession",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreEmpleadosSession\\MvcCoreEmpleadosSession\\wwwroot\\images\\check.png",
+      "SourceId": "MvcCoreEmpleadosSession",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreEmpleadosSession\\MvcCoreEmpleadosSession\\wwwroot\\",
+      "BasePath": "_content/MvcCoreEmpleadosSession",
+      "RelativePath": "images/check.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\check.png"
     },
     {
       "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreEmpleadosSession\\MvcCoreEmpleadosSession\\wwwroot\\js\\site.js",

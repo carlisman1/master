@@ -1,0 +1,37 @@
+﻿@model List<Coche>
+
+@section Scripts{
+    <script>
+        $(document).ready(function(){
+            $("#botonbuscarcoche").click(function(){
+                var idcoche = $("#cajaidcoche").val();
+                //Controller/Action?id=1
+                //Controller/Action?id=1otro=valor
+                //Controller/Action/1 ESTO SOLO SI SE LLAMA {id} EL PARAMETRO
+                var request = "/Coches/_DetailsCoche?idCoche=" + idcoche;
+                $("#contenidodetails").load(request);
+            })
+        })
+    </script>
+}
+
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle"
+    type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+    aria-expanded="false">
+        Menu Coches
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+        @foreach (Coche car in Model)
+        {
+            <li>
+                <a asp-controller="Coches" 
+                    asp-action="Details" 
+                    asp-route-idcoche="@car.IdCoche" class="dropdown-item" >
+                    @car.Marca
+                </a>
+            </li>    
+        }
+    </ul>
+
+</div>

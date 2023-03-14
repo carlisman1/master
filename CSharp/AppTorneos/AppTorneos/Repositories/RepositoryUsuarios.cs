@@ -7,16 +7,16 @@ namespace AppTorneos.Repositories
 {
     public class RepositoryUsuarios
     {
-        private BWTOURNAMENTContext context;
+        private BSTournamentContext context;
 
-        public RepositoryUsuarios(BWTOURNAMENTContext context)
+        public RepositoryUsuarios(BSTournamentContext context)
         {
             this.context = context;
         }
 
         public void InsertarUsuario(string usuariotag, string nombre, string email, string contrasenia)
         {
-            string sql = "INSERTARUSUARIO_SP @Nombre, @Email, @UsuarioTag, @Contrasenia";
+            string sql = "INSERTARUSUARIO_SP @UsuarioTag, @Contrasenia, @Nombre,  @Email";
             SqlParameter paminombre =
                 new SqlParameter("@Nombre", nombre);
             SqlParameter pamemail =
@@ -28,7 +28,7 @@ namespace AppTorneos.Repositories
             //PARA EJECUTAR CONSULTAS DE ACCION EN UN PROCEDURE
             //SE UTILIZA EL METODO ExecuteSqlRaw() Y VIENE DESDE
             // Database
-            this.context.Database.ExecuteSqlRaw(sql, paminombre, pamemail, pamusuariotag, pamicontrasenia);
+            this.context.Database.ExecuteSqlRaw(sql, paminombre, pamusuariotag, pamemail, pamicontrasenia);
         }
 
         public User LoginUsuarios(string email, string contrasenia)

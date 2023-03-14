@@ -24,38 +24,24 @@ C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorne
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.0\AppTorneos.pdb
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.0\AppTorneos.genruntimeconfig.cache
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.0\ref\AppTorneos.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Azure.Core.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Azure.Identity.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.Memory.Data.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -139,3 +125,4 @@ C:\Users\JC\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.
 C:\Users\JC\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.0\AppTorneos.pdb
 C:\Users\JC\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.0\AppTorneos.genruntimeconfig.cache
 C:\Users\JC\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\obj\Debug\net6.0\ref\AppTorneos.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\AppTorneos\AppTorneos\bin\Debug\net6.0\libman.json
