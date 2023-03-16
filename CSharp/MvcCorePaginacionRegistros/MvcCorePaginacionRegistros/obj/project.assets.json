@@ -9520,6 +9520,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.EntityFrameworkCore >= 6.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.14",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.12"
     ]
@@ -9563,6 +9564,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.14, )"

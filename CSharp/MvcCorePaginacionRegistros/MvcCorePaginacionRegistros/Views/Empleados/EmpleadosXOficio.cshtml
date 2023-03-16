@@ -1,0 +1,54 @@
+﻿@model List<Empleado>
+
+@{
+    int numeroregistros = 0;
+
+    if (ViewData["REGISTROS"] != null)
+    {
+        numeroregistros =(int)ViewData["REGISTROS"];
+    }
+    
+    int numeropagina = 1;
+}
+
+<form method="post">
+    <input name="oficio" type="text" class="form-control" />
+    <button>Enviar</button>
+</form>
+
+@if (Model != null)
+{
+    <ul class="list-group list-group-horizontal">
+    @for (int i = 1; i <= numeroregistros; i += 3)
+    {
+        <li class="list-group-item list-group-item-success">
+            <a asp-controller="Empleados"
+                asp-action="EmpleadosXOficio"
+                asp-route-posicion="@i"
+                asp-route-oficio="@ViewData["OFICIO"]">
+                Página @numeropagina
+            </a>
+        </li>
+        numeropagina += 1;
+    }
+</ul>
+ 
+<table class="table table-warning">
+    <thead>
+        <tr>
+            <th>APELLIDO</th>
+            <th>OFICIO</th>
+            <th>SALARIO</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (Empleado item in Model) {
+        <tr>
+            <td>@item.Apellido</td>
+            <td>@item.Oficio</td>
+            <td>@item.Salario</td>
+        </tr>
+}
+    </tbody>
+</table>
+}

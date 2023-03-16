@@ -1,0 +1,51 @@
+﻿@model List<Empleado>
+
+<h1>Paginado</h1>
+
+@{
+    int numeropagina = 1;
+    int paginacion = (int)ViewData["PAGINACION"]!;
+}
+
+<form method="post">
+    <select name="paginacion" value=@paginacion>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="5">5</option>
+    </select>
+    <select name="oficio" value="@ViewData["OFICIO"]">
+        <option value="EMPLEADO">EMPLEADO</option>
+        <option value="DIRECTOR">DIRECTOR</option>
+        <option value="VENDEDOR">VENDEDOR</option>
+    </select>
+    <button>Aplicar</button>
+</form>
+
+
+@for(var i = 1; i <= (int)ViewData["REGISTROS"]!; i += paginacion)
+{
+    <a asp-controller="Empleado" asp-action="Index" asp-route-oficio="@ViewData["OFICIO"]" asp-route-posicion="@i" asp-route-paginacion="@paginacion">
+        Pagina @numeropagina
+    </a>
+    numeropagina += 1;
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ape</th>
+            <th>ofi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Empleado item in Model)
+        {
+            <tr>
+                <td>@item.Apellido</td>
+                <td>@item.Oficio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

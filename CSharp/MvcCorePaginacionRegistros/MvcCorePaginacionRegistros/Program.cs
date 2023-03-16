@@ -5,14 +5,14 @@ using MvcCorePaginacionRegistros.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-string connectionString = builder.Configuration.GetConnectionString("SqlHospital");
-builder.Services.AddTransient<RepositoryEmpleados>();
+string connectionString =
+    builder.Configuration.GetConnectionString("SqlHospital");
 builder.Services.AddTransient<RepositoryDepartamentos>();
-builder.Services.AddDbContext<DepartamentosContext>
+builder.Services.AddTransient<RepositoryHospital>();
+builder.Services.AddTransient<RepositoryEmpleados>();
+builder.Services.AddDbContext<BBDDContext>
     (options => options.UseSqlServer(connectionString));
-
 builder.Services.AddControllersWithViews();
-
 
 var app = builder.Build();
 
