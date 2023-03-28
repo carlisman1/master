@@ -7,8 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\Temporal\" />
+    <Content Include="UploadedFiles\SIDEBAR-NAVBAR2.zip" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UploadedFiles\" />
+    <Folder Include="wwwroot\temp\" />
     <Folder Include="wwwroot\uploads\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.ResponseCaching" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.12" />
   </ItemGroup>
 
 </Project>

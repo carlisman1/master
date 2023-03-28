@@ -1,18 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MvcCoreUtilidades.Helpers;
-using System.Net;
-using System.Net.Mail;
 
 namespace MvcCoreUtilidades.Controllers
 {
     public class MailsController : Controller
     {
-        private HelperUploadFiles helperUploadFiles;
-        private HelperMail helperMail;
+        private readonly HelperUploadFile helperUpload;
+        private readonly HelperMail helperMail;
 
-        public MailsController(HelperUploadFiles helperUploadFiles, HelperMail helperMail)
+        public MailsController(HelperUploadFile helperUpload, HelperMail helperMail)
         {
-            this.helperUploadFiles = helperUploadFiles;
+            this.helperUpload = helperUpload;
             this.helperMail = helperMail;
         }
 
@@ -22,25 +20,24 @@ namespace MvcCoreUtilidades.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> SendMail
-            (string para, string asunto, string mensaje, List<IFormFile> file)
+        public async Task<IActionResult> SendMail(string para, string asunto, string mensaje, List<IFormFile> files)
         {
-            List<string> paths = new List<string>();
-            List<IFormFile> fileList = new List<IFormFile>();
-            foreach (IFormFile f in file)
+            if (files == null)
             {
-                string path =
-                    await this.helperUploadFiles.UploadFileAsync(f, Folders.Temporal);
-                paths.Add(path);
-            }
-            if(file != null)
-            {
-                
-                await this.helperMail.SendMailAsync(para, asunto, mensaje, paths);
+                await this.helperMail.SendMailAsync(para, asunto, mensaje);
             }
             else
             {
-                await this.helperMail.SendMailAsync(para, asunto, mensaje);
+                if (files.Count > 1)
+                {
+                    List<string> paths = await this.helperUpload.UploadFileAsync(files, Folders.Temp);
+                    await this.helperMail.SendMailAsync(para, asunto, mensaje, paths);
+                }
+                else
+                {
+                    string path = await this.helperUpload.UploadFileAsync(files[0], Folders.Temp);
+                    await this.helperMail.SendMailAsync(para, asunto, mensaje, path);
+                }
             }
 
             ViewData["MENSAJE"] = "Email enviado correctamente";

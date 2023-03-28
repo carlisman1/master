@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9kkloEBgBvk+0p+bWcOcXvlcITyXkgHbT4oHJAScgR0=",
+  "Hash": "1i5C4gXy0U8cgLSjEo+0p09nDnRJZrBN9q++uVh2Nxk=",
   "Source": "MvcCoreUtilidades",
   "BasePath": "_content/MvcCoreUtilidades",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MvcCoreUtilidades\\wwwroot",
       "Source": "MvcCoreUtilidades",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MvcCoreUtilidades.styles.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MvcCoreUtilidades.styles.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "MvcCoreUtilidades.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MvcCoreUtilidades.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MvcCoreUtilidades.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MvcCoreUtilidades.bundle.scp.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MvcCoreUtilidades.bundle.scp.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "MvcCoreUtilidades.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MvcCoreUtilidades.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MvcCoreUtilidades.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\css\\site.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\favicon.ico",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\js\\site.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,12 +1071,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\Temporal\\Brawl.png",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\temp\\Captura de pantalla_20221114_113920.png",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "Temporal/Brawl.png",
+      "RelativePath": "temp/Captura de pantalla_20221114_113920.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Temporal\\Brawl.png"
+      "OriginalItemSpec": "wwwroot\\temp\\Captura de pantalla_20221114_113920.png"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\Temporal\\BS.png",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\temp\\Captura de pantalla_20221114_125541.png",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "Temporal/BS.png",
+      "RelativePath": "temp/Captura de pantalla_20221114_125541.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Temporal\\BS.png"
+      "OriginalItemSpec": "wwwroot\\temp\\Captura de pantalla_20221114_125541.png"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\Temporal\\logoBrawl.png",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\temp\\Captura de pantalla_20221114_125631.png",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "Temporal/logoBrawl.png",
+      "RelativePath": "temp/Captura de pantalla_20221114_125631.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Temporal\\logoBrawl.png"
+      "OriginalItemSpec": "wwwroot\\temp\\Captura de pantalla_20221114_125631.png"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\Temporal\\pampara.jpg",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\temp\\Captura de pantalla_20221114_130017.png",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "Temporal/pampara.jpg",
+      "RelativePath": "temp/Captura de pantalla_20221114_130017.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Temporal\\pampara.jpg"
+      "OriginalItemSpec": "wwwroot\\temp\\Captura de pantalla_20221114_130017.png"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\Temporal\\perrete.jpg",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\uploads\\Captura de pantalla_20221114_113920.png",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "Temporal/perrete.jpg",
+      "RelativePath": "uploads/Captura de pantalla_20221114_113920.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Temporal\\perrete.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\Captura de pantalla_20221114_113920.png"
     },
     {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\uploads\\pampara.jpg",
+      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\uploads\\SIDEBAR-NAVBAR2.zip",
       "SourceId": "MvcCoreUtilidades",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master-tajamar\\dotnet\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
       "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "uploads/pampara.jpg",
+      "RelativePath": "uploads/SIDEBAR-NAVBAR2.zip",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,24 +1170,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\pampara.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\uploads\\perrete.jpg",
-      "SourceId": "MvcCoreUtilidades",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alumnos MCSD Mañana\\Documents\\GitHub\\master\\CSharp\\MvcCoreUtilidades\\MvcCoreUtilidades\\wwwroot\\",
-      "BasePath": "_content/MvcCoreUtilidades",
-      "RelativePath": "uploads/perrete.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\perrete.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\SIDEBAR-NAVBAR2.zip"
     }
   ]
 }

@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\MvcCoreUtilidades\MvcCoreUtilidades
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Caching/MemoriaDistribuida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FjaGluZ1xNZW1vcmlhRGlzdHJpYnVpZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Caching/MemoriaPersonalizada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FjaGluZ1xNZW1vcmlhUGVyc29uYWxpemFkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/CifradoBasico/CifradoBasico.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lmcmFkb0Jhc2ljb1xDaWZyYWRvQmFzaWNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -23,8 +31,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lmcmFkb0Jhc2ljb1xDaWZyYWRvRWZpY2llbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Cifrados/CifradoBasico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lmcmFkb3NcQ2lmcmFkb0Jhc2ljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Cifrados/CifradoEficiente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lmcmFkb3NcQ2lmcmFkb0VmaWNpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Coches/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Coches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Coches/_CochesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaGVzXF9Db2NoZXNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Coches/_DetailsCoche.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29jaGVzXF9EZXRhaWxzQ29jaGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Home/Privacy.cshtml]
@@ -35,8 +71,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbHNcU2VuZE1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Shared/Components/MenuCoches/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUNvY2hlc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Shared/_MenuUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51VXN1YXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/CSharp/MvcCoreUtilidades/MvcCoreUtilidades/Views/Shared/_ValidationScriptsPartial.cshtml]

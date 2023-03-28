@@ -1,40 +1,40 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MvcCoreUtilidades.Helpers;
+using System.Net.Mime;
 
 namespace MvcCoreUtilidades.Controllers
 {
     public class UploadFilesController : Controller
     {
-
         private HelperPathProvider helperPath;
 
-        public UploadFilesController(HelperPathProvider helperPath)
+        private IHttpContextAccessor contextAccessor;
+
+        public UploadFilesController(HelperPathProvider helperPath, IHttpContextAccessor contextAccessor)
         {
             this.helperPath = helperPath;
+            this.contextAccessor = contextAccessor;
         }
 
         public IActionResult SubirFichero()
         {
             return View();
         }
+
         [HttpPost]
-        public async Task<IActionResult> SubirFichero
-            (IFormFile fichero)
+        public async Task<IActionResult> SubirFichero(IFormFile fichero)
         {
-            //VAMOS A GUARDAR EL FICHERO EN UNA RUTA TEMPORAL(POR AHORA)
-            //NECESITAMOS System.IO
-            //string tempFolder = Path.GetTempPath();
+            string tempFolder = Path.GetTempPath();
             string fileName = fichero.FileName;
-            //NUESTRA RUTA SERA UNA COMBINACION DE LOS DOS
-            //LAS RUTAS SIEMPRE SE ESCRIBEN CON Path.Combine
-            //QUE SE ADAPTA A CADA SERVER CORE
-            string path = this.helperPath.MapPath(fileName, Folders.Uploads);
+
+            string path = helperPath.MapPath(fileName, Folders.Uploads);
+
             using (Stream stream = new FileStream(path, FileMode.Create))
             {
                 await fichero.CopyToAsync(stream);
             }
-            ViewData["MENSAJE"] = "Fichero subido a " + path;
-            ViewData["URL"] = "<a href='https://img.freepik.com/foto-gratis/bulldog-frances-marron-joven-jugando-aislado-pared-blanca-estudio_155003-31898.jpg'>Mi fichero</a>";
+            ViewData["MENSAJE"] = "Fichero subido a: " + path;
+            //ViewData["UPLOADED_PATH"] = Path.Combine(this.contextAccessor.HttpContext., fileName);
             return View();
         }
     }

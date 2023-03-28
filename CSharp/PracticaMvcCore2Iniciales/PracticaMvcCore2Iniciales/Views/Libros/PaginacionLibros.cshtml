@@ -1,0 +1,52 @@
+﻿@model IEnumerable<PracticaMvcCore2Iniciales.Models.Libros>
+
+@{
+    ViewData["Title"] = "PaginacionLibros";
+}
+
+@{
+    int siguiente = int.Parse(ViewData["SIGUIENTE"].ToString());
+    int anterior = int.Parse(ViewData["ANTERIOR"].ToString());
+}
+
+<a class="btn btn-danger" asp-action="PaginacionLibros" asp-controller="Libros" asp-route-posicion="@anterior">Anterior</a>
+<a class="btn btn-success" asp-action="PaginacionLibros" asp-controller="Libros" asp-route-posicion="@siguiente">Siguiente</a>
+
+<h1>PaginacionLibros</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdLibro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+            <th>
+                @Html.DisplayNameFor(model => model.Portada)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdLibro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Portada)
+                </td>
+                <td>
+                    @Html.ActionLink("Libros", "Detalles", new {  idlibro=item.IdLibro  })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
