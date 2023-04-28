@@ -1,0 +1,10 @@
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\bin\ServiceWCFHostClientes.dll.config
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\bin\ServiceWCFHostClientes.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\bin\ServiceWCFHostClientes.pdb
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\bin\ServiceWCFLogicaClientes.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\bin\ServiceWCFLogicaClientes.pdb
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\obj\Debug\ServiceWCFHostClientes.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\obj\Debug\ServiceWCFHostClientes.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\obj\Debug\ServiceWCFHostClientes.csproj.CopyComplete
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\obj\Debug\ServiceWCFHostClientes.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFHostClientes\obj\Debug\ServiceWCFHostClientes.pdb

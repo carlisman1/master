@@ -1,0 +1,6 @@
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFLogicaClientes\bin\ServiceWCFLogicaClientes.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFLogicaClientes\bin\ServiceWCFLogicaClientes.pdb
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFLogicaClientes\obj\Debug\ServiceWCFLogicaClientes.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFLogicaClientes\obj\Debug\ServiceWCFLogicaClientes.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFLogicaClientes\obj\Debug\ServiceWCFLogicaClientes.dll
+C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\CSharp\ServiceWCFLogicaClientes\ServiceWCFLogicaClientes\obj\Debug\ServiceWCFLogicaClientes.pdb
