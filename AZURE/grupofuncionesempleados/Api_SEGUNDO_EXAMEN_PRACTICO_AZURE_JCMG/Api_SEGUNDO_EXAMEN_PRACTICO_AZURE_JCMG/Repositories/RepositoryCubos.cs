@@ -38,7 +38,7 @@ namespace Api_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Repositories
             await this.context.SaveChangesAsync();
         }
 
-        public async Task <UsuarioCubos> GetUsuarioAsync(string email, string pass)
+        public async Task<UsuarioCubos> GetUsuarioAsync(string email, string pass)
         {
             return await
                 this.context.UCubos.FirstOrDefaultAsync

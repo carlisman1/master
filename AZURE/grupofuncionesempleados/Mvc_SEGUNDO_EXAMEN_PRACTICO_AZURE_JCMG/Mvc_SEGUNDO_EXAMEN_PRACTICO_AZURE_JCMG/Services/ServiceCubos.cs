@@ -72,16 +72,23 @@ namespace Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Services
             }
         }
 
-        public async Task<List<Cubo>> GetCubosAsync(string token)
+        public async Task<List<Cubo>> GetCubosAsync()
         {
             string request = "api/Cubos";
-            List<Cubo> cubos = await this.CallApiAsync<List<Cubo>>(request, token);
+            List<Cubo> cubos = await this.CallApiAsync<List<Cubo>>(request);
             return cubos;
         }
 
-        public async Task<UsuarioCubos> FindUsuario(int id)
+        public async Task<List<Cubo>> FindCubo(string marca)
         {
-            string request = "api/Cubos/Perfil" + id;
+            string request = "/api/Cubos/" + marca;
+            List<Cubo> cub = await this.CallApiAsync<List<Cubo>>(request);
+            return cub;
+        }
+
+        public async Task<UsuarioCubos> PerfilUsuario()
+        {
+            string request = "/api/Cubos/GetUsuario";
             UsuarioCubos usu = await this.CallApiAsync<UsuarioCubos>(request);
             return usu;
         }
@@ -90,7 +97,7 @@ namespace Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Services
         {
             using (HttpClient client = this.HttpClientFactory.CreateClient())
             {
-                string request = "api/Cubos";
+                string request = "api/Cubos/InsertCubo";
                 client.BaseAddress = new Uri(this.UrlApi);
                 client.DefaultRequestHeaders.Clear();
                 client.DefaultRequestHeaders.Accept.Add(this.Header);
@@ -109,7 +116,35 @@ namespace Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Services
                 //para enviar datos al servicio se utiliza 
                 //la clase SytringContent, donde debemos indicar
                 //los datos, de ending  y su tipo
-                StringContent content = new StringContent(json, Encod   ing.UTF8, "application/json");
+                StringContent content = new StringContent(json, Encoding.UTF8, "application/json");
+                HttpResponseMessage response = await client.PostAsync(request, content);
+            }
+        }
+
+        public async Task InsertUsuario(int idusuario, string nombre, string email, string pass, string imagen)
+        {
+            using (HttpClient client = this.HttpClientFactory.CreateClient())
+            {
+                string request = "api/Cubos/InsertUsuario";
+                client.BaseAddress = new Uri(this.UrlApi);
+                client.DefaultRequestHeaders.Clear();
+                client.DefaultRequestHeaders.Accept.Add(this.Header);
+                //tenemos que enviar un objeto JSON
+                //nos creamos un objeto de la clase Hospital
+                UsuarioCubos usu = new UsuarioCubos
+                {
+                    IdUsuario = idusuario,
+                    Nombre = nombre,
+                    Email = email,
+                    Pass = pass,
+                    Imagen = imagen
+                };
+                //convertimos el objeto a json
+                string json = JsonConvert.SerializeObject(usu);
+                //para enviar datos al servicio se utiliza 
+                //la clase SytringContent, donde debemos indicar
+                //los datos, de ending  y su tipo
+                StringContent content = new StringContent(json, Encoding.UTF8, "application/json");
                 HttpResponseMessage response = await client.PostAsync(request, content);
             }
         }

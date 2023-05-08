@@ -15,12 +15,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alumnos MCSD Mañana\Documents\GitHub\master\AZURE\grupofuncionesempleados\Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG\Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Cubos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vib3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Cubos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vib3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Managed/CrearUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlZFxDcmVhclVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Managed/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlZFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alumnos MCSD Mañana/Documents/GitHub/master/AZURE/grupofuncionesempleados/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG/Views/Shared/Error.cshtml]

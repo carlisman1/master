@@ -24,14 +24,13 @@ namespace Api_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Controllers
 
         [HttpGet]
         [Route("[action]")]
-        [Authorize]
         public async Task<ActionResult<List<CompraCubos>>> GetCCubos()
         {
             return await this.repo.GetCCubosAsync();
         }
 
         [HttpGet("{marca}")]
-        public async Task<ActionResult<Cubos>> FindCubo(string marca)
+        public async Task<ActionResult<List<Cubos>>> FindCubo(string marca)
         {
             return await this.repo.FindCuboAsync(marca);
         }
@@ -45,7 +44,7 @@ namespace Api_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Controllers
             return Ok();
         }
 
-        [HttpPost("[action]")]
+        [HttpPost]
         public async Task<ActionResult> InsertUsuario(UsuarioCubos usu)
         {
             await this.repo.InsertarUsuarioAsync
@@ -54,7 +53,6 @@ namespace Api_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Controllers
         }
 
         [HttpPost("[action]")]
-        [Authorize]
         public async Task<ActionResult> InsertCompraCubo(CompraCubos ccub)
         {
             await this.repo.InsertarCCuboAsync

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Mvc_SEGUNDO_EXAMEN_PRACTICO_AZURE_JCMG.Models.Cubo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-controller="Cubos" asp-action="Create">Crear Cubo</a>
+</p>
+
+<button class="btn btn-warning">
+    <a asp-action="Index">Ver Todos</a>
+</button>
+
+<form method="post" asp-action="FindCubo">
+    <label>Filtrar por marca: </label>
+    <input type="text" name="marca"/>
+    <button type="submit" class="btn btn-info">Filtrar</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCubo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCubo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Imagen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
